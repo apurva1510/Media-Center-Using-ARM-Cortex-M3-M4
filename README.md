@@ -15,4 +15,5 @@ Project Specifications
 > BMP Image Handling: Converts BMP files to C arrays for display on the LCD using GIMP for image processing.
 > USB Audio Streaming: Implements USB communication for streaming audio from a PC, with interrupt handling and volume adjustment.
 
+PS: I have uploaded the main .c file for this project. To view this project in detail, please download the .zip file.
 Please refer to the project report for further insight. 
